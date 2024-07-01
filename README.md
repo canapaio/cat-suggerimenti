@@ -4,7 +4,7 @@
 
 Traduzione in italiano di Cat Suggestions
 
-quuesta traduzione è stata fatta tramite CC e ollama con berta 2
+quuesta traduzione è stata fatta tramite CC e ollama con gemma-2 9b-it
 
 Il plugin “CAT Suggerimenti” migliora l’esperienza conversazionale fornendo agli utenti suggerimenti contestualmente appropriati per continuare la conversazione con l’assistente.
 Caratteristiche
