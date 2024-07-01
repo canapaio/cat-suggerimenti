@@ -16,8 +16,8 @@ def before_cat_sends_message(message, cat):
                     """
 
         # Format the suggestions as clickable links in HTML
-        suggestions_html = "After generating the suggestions, please format them as follows: " + \
-                       "<hr><div> <b>Dritta: </b>" + ", ".join([f'<a href="javascript:void(0);" class="suggestion"><i>{{suggestion_{i+1}}}</i></a>' for i in range(num_suggestions)]) + "</div>"
+        suggestions_html = "Dopo aver generato i suggerimenti, per favore formattali come segue:" + \
+                       "<hr><div> <b>Suggerimenti: </b>" + ", ".join([f'<a href="javascript:void(0);" class="suggestion"><i>{{suggestion_{i+1}}}</i></a>' for i in range(num_suggestions)]) + "</div>"
         
         # Append the HTML-formatted suggestions to the prompt
         prompt += f"\n{suggestions_html}"
