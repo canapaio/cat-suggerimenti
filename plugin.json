@@ -4,7 +4,7 @@
     "description": "Genera frasi di suggerimento contestualmente pertinenti per continuare la conversazione con il chatbot. Si adatta dinamicamente al flusso del dialogo, garantendo interazioni fluide ed coinvolgenti.",
     "author_name": "Canapaio Cana",
     "author_url": "https://github.com/canapaio/",
-    "plugin_url": "https://github.com/canapaio/cat-suggestions",
+    "plugin_url": "https://github.com/canapaio/cat-suggerimenti",
     "tags": "suggerimenti, llm, questions, conversation",
     "thumb": "https://github.com/canapaio/cat-suggestions/main/plugin_cat_suggestions.png"
 }
